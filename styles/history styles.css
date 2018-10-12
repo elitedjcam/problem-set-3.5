@@ -4,3 +4,12 @@ td, th {
   border: 1px solid #dddddd;
   padding: 8px;
 }
+
+body {
+  background-color: #009933
+}
+
+p {
+  color: #ffffff;
+  font-family: "Comic Sans MS", cursive, sans-serif
+}
