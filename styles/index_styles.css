@@ -1,5 +1,5 @@
 body {
-  background-color: #009933
+  background-image: url("../images/dirtblock.jpg");
 }
 
 p {
@@ -8,6 +8,10 @@ p {
 }
 
 h1 {
-  color: #800000;
+  color: 	#00FFFF;
   font-family: "Trebuchet MS", Helvetica, sans-serif;
+}
+
+a {
+  color: 	#00FFFF;
 }
