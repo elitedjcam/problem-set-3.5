@@ -10,3 +10,15 @@ p {
 #header {
   text-shadow: 3px 2px grey;
 }
+
+a:visited {
+  color: skyblue;
+}
+
+a:link {
+  color: 	#00FFFF;
+}
+
+a:hover {
+  color: orange;
+}

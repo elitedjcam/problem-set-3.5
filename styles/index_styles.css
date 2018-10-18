@@ -14,7 +14,14 @@ h1 {
 
 a {
   color: 	#00FFFF;
+}
 
+a:visited {
+  color: skyblue;
+}
+
+a:link {
+  color: 	#00FFFF;
 }
 
 a:hover {
