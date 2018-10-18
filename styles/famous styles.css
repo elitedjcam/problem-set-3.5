@@ -1,5 +1,5 @@
 body {
-  background-color: #009933
+  background-color: #7D6958;
 }
 
 p {
@@ -21,4 +21,8 @@ a:link {
 
 a:hover {
   color: orange;
+}
+
+* .bio {
+  color: maroon;
 }
