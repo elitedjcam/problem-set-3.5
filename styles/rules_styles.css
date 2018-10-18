@@ -8,17 +8,17 @@ p {
 }
 
 .combat {
-  color:
+  color:maroon;
 }
 
 .controls {
-
+  color:orange;
 }
 
 .difficulties {
-
+  color:limegreen;
 }
 
 .mining {
-
+  color: skyblue;
 }
