@@ -41,6 +41,7 @@ img {
    border:1px solid #021a40;
    width: 800px;
    length: 500px;
+   border-radius: 9px;
 }
 
 p[title]{
