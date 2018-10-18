@@ -29,3 +29,11 @@ a:link {
 a:hover {
   color: orange;
 }
+
+tr th {
+  color: maroon;
+}
+
+tr td {
+  color: #520202;
+}
