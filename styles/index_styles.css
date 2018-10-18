@@ -24,6 +24,10 @@ a:link {
   color: 	#00FFFF;
 }
 
+a[href="https://www.minecraft.net"]{
+  color: red;
+}
+
 a:hover {
   color: orange;
 }
@@ -37,4 +41,12 @@ img {
    border:1px solid #021a40;
    width: 800px;
    length: 500px;
+}
+
+p[title]{
+  color: black;
+}
+
+a[href*="mailto"] {
+  color: black;
 }
