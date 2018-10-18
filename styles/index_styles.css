@@ -18,5 +18,9 @@ a {
 }
 
 a:hover {
-  color: blue;
+  color: orange;
+}
+
+#header {
+  text-shadow: 3px 2px grey;
 }
