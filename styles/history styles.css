@@ -30,7 +30,7 @@ a:hover {
   color: orange;
 }
 
-tr th {
+tr + th {
   color: maroon;
 }
 
